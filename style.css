@@ -1,0 +1,13 @@
+body {
+    /* background-image:url(./assets/Untitled\ design.png); 
+    background-size: cover; */
+    background-color: #222;
+
+}
+
+header {
+    background-color: white;
+    display: flex;
+    align-items: center;
+}
+
